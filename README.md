@@ -8,4 +8,4 @@ Very simple, pure fun.
 
 Just enjoy Chromeasaurus rex ;-)
 
-![video]()
+![video](https://github.com/med-backer02/dino_T_Rex/blob/main/dino.gif)
